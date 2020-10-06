@@ -1,2 +1,2 @@
 # Card-Memory-Game
-classic memory games based on horror movies
+classic memory game based on horror movies
